@@ -7,7 +7,7 @@ variantes e incluso responder a preguntas culinarias.
 
 ## 🧠 Tecnologías utilizadas
 
-- Python 3.10
+- Python 3.12
 - [Streamlit](https://streamlit.io/)
 - [LangChain](https://www.langchain.com/)
 - [OpenAI API](https://platform.openai.com/)
