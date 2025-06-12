@@ -40,14 +40,14 @@ variantes e incluso responder a preguntas culinarias.
 
 5. Ejecuta la aplicación:
    ```bash
-   streamlit run app1.py
+   streamlit run app.py
    ```
 
 ## 📦 Estructura del proyecto
 
 ```
 .
-├── app1.py            # Código principal de la aplicación
+├── app.py            # Código principal de la aplicación
 ├── requirements.txt   # Dependencias del proyecto
 ├── .env               # Clave API de OpenAI (no incluida en Git)
 ├── train.csv          # Dataset de recetas base (cargado desde Hugging Face)
@@ -65,9 +65,4 @@ También puedes hacer preguntas personalizadas en un chat por receta.
 ## 📝 Notas
 
 - Asegúrate de tener una clave válida de la API de OpenAI.
-- El dataset `train.csv` debe descargarse manualmente desde Hugging Face si no está incluido.
-- Para producción se recomienda reemplazar `st.session_state` por un backend más robusto.
-
-## 👥 Autores
-
-Proyecto desarrollado por Isaac Santín y Lucía Arjona como parte de una práctica de IA Generativa.
+- El dataset `train.csv` debe descargarse manualmente desde Hugging Face.
