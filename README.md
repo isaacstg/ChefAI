@@ -1,8 +1,8 @@
 # 👨‍🍳 ChefAI: Tu Asistente Culinario Inteligente
 
 ChefAI es una aplicación de inteligencia artificial generativa que sugiere recetas personalizadas
-según los ingredientes disponibles, preferencias dietéticas y estilo de cocina.
-Utiliza recuperación semántica (RAG) y modelos de lenguaje de OpenAI para generar platos creativos,
+según los ingredientes que tengas disponibles en tu cocina, preferencias dietéticas y estilo culinario.
+Utiliza generación aumentada por recuperación (RAG), embeddings (FAISS) y modelos de lenguaje de OpenAI para generar platos creativos,
 variantes e incluso responder a preguntas culinarias.
 
 ## 🧠 Tecnologías utilizadas
