@@ -49,9 +49,9 @@ variantes e incluso responder a preguntas culinarias.
 .
 ├── app.py            # Código principal de la aplicación
 ├── requirements.txt   # Dependencias del proyecto
-├── .env               # Clave API de OpenAI (no incluida en Git)
+├── .env               # Clave API de OpenAI
 ├── train.csv          # Dataset de recetas base (cargado desde Hugging Face)
-└── README.md          # Este archivo
+└── README.md          
 ```
 
 ## 🧪 Ejemplos de uso
